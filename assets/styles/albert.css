@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+.fdb-block {
+	padding: 30px 0;
+}
+* {
+	font-family: "Poppins", sans-serif;
+}
+:root {
+	--primary-Color: #0d5ef4;
+	--secondary-Color: #0b1432;
+	--text-Color: #232323;
+	--alert-Color: #0099ff;
+	--success-Color: #26c976;
+	--warning-Color: #ee8800;
+	--error-Color: #f94c10;
+	--grey-Color: #838383;
+	--black-Color: #101828;
+	--main-Background-Color: #ffffff;
+	--secondary-Background-Color: ;
+	--secondary-Font: "Montserrat", sans-serif;
+	--button-padding: 12px 40px;
+	--button-border-radius: 0px;
+	--button-font-weight: 500;
+	--heading: 35px;
+	--heading-two: 25px;
+}
+/*headera9823ff3dfbdaa29*/
+.headera9823ff3dfbdaa29 .navbar .nav-link,
+.headera9823ff3dfbdaa29 .navbar .nav-link:hover,
+.headera9823ff3dfbdaa29 .navbar .nav-link:focus {
+	color: var(--black-Color);
+}
+.headerb4ddd9e9eed437a92 .logo-header .btn,
+.headerb4ddd9e9eed437a92 .logo-header .btn:hover {
+	padding: var(--button-padding);
+	background-color: var(--primary-Color);
+	color: var(--main-Background-Color);
+	border-radius: var(--button-border-radius);
+	border: none;
+}
+/*aboute50d5193e4b9f737*/
+.aboute50d5193e4b9f737 h2 {
+	font-size: var(--heading);
+}
+.aboute50d5193e4b9f737 .searchBtn {
+	padding: var(--button-padding);
+	background-color: var(--primary-Color);
+	color: var(--main-Background-Color);
+	border-radius: var(--button-border-radius);
+	border: none;
+}
+/*bannerf4d36302323992b2*/
+.bannerf4d36302323992b2{
+    padding: 4rem;
+}
+.bannerf4d36302323992b2 .button{
+    padding: var(--button-padding);
+	background-color: var(--primary-Color);
+	color: var(--main-Background-Color);
+	border-radius: var(--button-border-radius);
+	border: none;
+}
+/*testimonialprz03sp248l*/
+.testimonialprz03sp248l h1{
+font-size: var(--heading-two);
+}
+.testimonialprz03sp248l .pb-xl-5{
+    padding-bottom: 0px !important;
+}
+.testimonialprz03sp248l .mt-4, 
+.testimonialprz03sp248l .my-4 {
+    margin-top: -0.5rem !important;
+}
+.testimonialprz03sp248l p{
+    font-weight: 400;
+}
+.sliders1fae57451461b568 .btnStyle {
+    background-color: var(--success-Color);
+}
+.text-success {
+    color: var(--success-Color) !important;
+}
+.counteraf598102c9dad94e h2 {
+    font-size: 2.4em;
+    color: var(--secondary-Color);
+}
+.counteraf598102c9dad94e h4 {
+    font-size: 20px;
+    color: var(--grey-Color);
+}
+.clientsca9o7rhywmy h2{
+    font-size: var(--heading-two);
+}
+.clientsca9o7rhywmy .fdb-block{
+    padding: 5rem
+}
+.floresfts2q9glqh3 .fdb-block {
+    padding: 0.5rem 0;
+    background-color: var(--secondary-Color);
+}
+.floresfts2q9glqh3 a,.floresfts2q9glqh3 a:hover {
+    color: var(--success-Color);
+}
