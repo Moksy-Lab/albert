@@ -42,6 +42,7 @@
 /*aboute50d5193e4b9f737*/
 .aboute50d5193e4b9f737 h2 {
 	font-size: var(--heading);
+    margin-top: 30px;
 }
 .aboute50d5193e4b9f737 .searchBtn {
 	padding: var(--button-padding);
@@ -70,7 +71,7 @@ font-size: var(--heading-two);
 }
 .testimonialprz03sp248l .mt-4, 
 .testimonialprz03sp248l .my-4 {
-    margin-top: -0.5rem !important;
+    margin-top: 0.5rem !important;
 }
 .testimonialprz03sp248l p{
     font-weight: 400;
