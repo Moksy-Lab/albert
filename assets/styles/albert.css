@@ -67,6 +67,9 @@
 	font-weight: 300;
 }
 /*aboute50d5193e4b9f737*/
+.aboute50d5193e4b9f737{
+    padding: var(--section-padding);
+}
 .aboute50d5193e4b9f737 h2 {
 	font-size: var(--heading-large);
     margin-top: 30px;
@@ -89,7 +92,7 @@
 }
 /*bannerf4d36302323992b2*/
 .bannerf4d36302323992b2{
-    padding: 4rem;
+    padding: var(--section-padding);
 }
 .bannerf4d36302323992b2 h2{
     font-size: var(--heading-medium);
@@ -108,6 +111,9 @@
 	border: none;
 }
 /*testimonialprz03sp248l*/
+.testimonialprz03sp248l {
+    padding: var(--section-padding);
+}
 .testimonialprz03sp248l h1{
 font-size: var(--heading-medium);
 }
@@ -118,6 +124,9 @@ font-size: var(--heading-medium);
 .testimonialprz03sp248l .my-4 {
     margin-top: 0.5rem !important;
 }
+.testimonialprz03sp248l .mt-5{
+    margin-top: 0rem !important;
+}
 .testimonialprz03sp248l p{
     font-weight: var(--button-font-weight);
 }
@@ -125,6 +134,9 @@ font-size: var(--heading-medium);
     font-size: var(--paragraph);
 }
 /*sliders1fae57451461b568*/
+.sliders1fae57451461b568 {
+    padding: var(--section-padding);
+}
 .sliders1fae57451461b568 .btnStyle {
     background-color: var(--success-Color);
 }
@@ -138,6 +150,9 @@ font-size: var(--heading-medium);
     font-weight: var(--button-font-weight);
 }
 /*counteraf598102c9dad94e*/
+.counteraf598102c9dad94e{
+    padding: var(--section-padding);
+}
 .counteraf598102c9dad94e h2 {
     font-size: var(--heading-large);
     color: var(--secondary-Color);
@@ -151,15 +166,19 @@ font-size: var(--heading-medium);
     font-size: var(--heading-large);
 }
 .clientsca9o7rhywmy .fdb-block{
-    padding: 5rem
+    padding: 0rem
 }
 .clientsca9o7rhywmy .lead{
 	font-size: var(--paragraph);
 }
+/*floresfts2q9glqh3*/
 .floresfts2q9glqh3 .fdb-block {
-    padding: 0.5rem 0;
-    background-color: var(--secondary-Color);
+    padding: var(--section-padding);
+    background-color: var(--secondary-Color) !important;
 }
 .floresfts2q9glqh3 a,.floresfts2q9glqh3 a:hover {
     color: var(--success-Color);
+}
+.floresfts2q9glqh3 h3 {
+    font-size: var(--paragraph);
 }
