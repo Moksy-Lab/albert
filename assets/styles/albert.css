@@ -162,6 +162,9 @@ font-size: var(--heading-medium);
     color: var(--grey-Color);
 }
 /*clientsca9o7rhywmy*/
+.clientsca9o7rhywmy{
+    padding: var(--section-padding);
+}
 .clientsca9o7rhywmy h2{
     font-size: var(--heading-large);
 }
